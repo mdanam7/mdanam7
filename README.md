@@ -1,6 +1,6 @@
-## Hi there 👋
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004482,100:00599C&height=200&section=header&text=Arman%20Mahmud&fontSize=50&fontColor=white&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004482,100:00599C&height=200&section=header&text=Anam%20Mahmud&fontSize=50&fontColor=white&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 # Hey there! 👋  
@@ -12,7 +12,7 @@ I'm **Anam**, a **Computer Science student** passionate about learning and build
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=armanmahmud28E&color=0e75b6&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=mdanam7&color=0e75b6&style=flat-square" alt="Profile Views"/>
 </div>
 
 ### 📚 Goals  
