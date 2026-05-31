@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004482,100:00b4d8&height=220&section=header&text=Anam&fontSize=60&fontColor=white&animation=fadeIn&fontAlignY=40&desc=CS%20Student%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:ff6a00,100:ffcc00&height=220&section=header&text=Anam&fontSize=60&fontColor=white&animation=fadeIn&fontAlignY=40&desc=CS%20Student%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=58&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=armanmahmud28E&color=00b4d8&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=armanmahmud28E&color=ff6a00&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
 
 <br/>
@@ -35,6 +35,7 @@ class Anam:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ### 🌐 Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -92,5 +93,5 @@ class Anam:
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:004482&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffcc00,50:ff6a00,100:ff0000&height=120&section=footer" width="100%"/>
 </div>
