@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:1a0000,40:cc2200,70:ff6600,100:ffaa00&height=200&section=header&text=Anam&fontSize=65&fontColor=white&animation=fadeIn&fontAlignY=45&desc=CS%20Student%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=62&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0000,25:6b0f00,50:c0390a,75:f77f00,100:ffd000&height=220&section=header&text=Anam%20🔥&fontSize=62&fontColor=ffffff&animation=blinking&fontAlignY=45&desc=CS%20Student%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=63&descSize=17&stroke=ff4500&strokeWidth=2" width="100%"/>
 </div>
 
 <div align="center">
@@ -8,6 +8,12 @@
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=mdanam7&color=ff6a00&style=for-the-badge&label=PROFILE+VIEWS" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=FF6A00&center=true&vCenter=true&width=450&lines=CS+Student+%7C+7th+Trimester;Passionate+Problem+Solver;Full-Stack+Explorer;Keep+Learning%2C+Keep+Building+🔥" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -89,9 +95,11 @@ class Anam:
 <br/>
 
 <div align="center">
-  <i>💡 "Keep learning, keep building."</i>
+  <i>🔥 "Keep learning, keep building." 🔥</i>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:ffaa00,40:ff6600,70:cc2200,100:1a0000&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:ffd000,25:f77f00,50:c0390a,75:6b0f00,100:0d0000&height=130&section=footer&stroke=ff4500&strokeWidth=2" width="100%"/>
 </div>
