@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:ff6a00,100:ffcc00&height=220&section=header&text=Anam&fontSize=60&fontColor=white&animation=fadeIn&fontAlignY=40&desc=CS%20Student%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:1a0000,40:cc2200,70:ff6600,100:ffaa00&height=200&section=header&text=Anam&fontSize=65&fontColor=white&animation=fadeIn&fontAlignY=45&desc=CS%20Student%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=62&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=armanmahmud28E&color=ff6a00&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=mdanam7&color=ff6a00&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
 
 <br/>
@@ -68,12 +68,12 @@ class Anam:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=armanmahmud28E&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanmahmud28E&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mdanam7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdanam7&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armanmahmud28E&theme=tokyonight&hide_border=true" height="160em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdanam7&theme=tokyonight&hide_border=true" height="160em"/>
 </div>
 
 ---
@@ -93,5 +93,5 @@ class Anam:
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffcc00,50:ff6a00,100:ff0000&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:ffaa00,40:ff6600,70:cc2200,100:1a0000&height=120&section=footer" width="100%"/>
 </div>
