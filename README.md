@@ -108,13 +108,13 @@ class Anam:
 
 ## ◈ GitHub Stats
 
-<img height="165em" src="https://npx plugins add vercel/vercel-plugin/api?username=mdanam7&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0025&title_color=b39ddb&icon_color=7b52ab&text_color=e8d5ff"/>
+<img height="165em" src="https://github-readme-stats-19v8.vercel.app/api?username=mdanam7&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0025&title_color=b39ddb&icon_color=7b52ab&text_color=e8d5ff"/>
 &nbsp;
-<img height="165em" src="https://npx plugins add vercel/vercel-plugin/api/top-langs/?username=mdanam7&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true&bg_color=0d0025&title_color=b39ddb&text_color=e8d5ff"/>
+<img height="165em" src="https://github-readme-stats-19v8.vercel.app/api/top-langs/?username=mdanam7&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true&bg_color=0d0025&title_color=b39ddb&text_color=e8d5ff"/>
 
 <br/>
 
-<img src="https://npx plugins add vercel/vercel-plugin/?user=mdanam7&theme=midnight-purple&hide_border=true&background=0d0025&ring=7b52ab&fire=b39ddb&currStreakLabel=e8d5ff" height="165em"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdanam7&theme=midnight-purple&hide_border=true&background=0d0025&ring=7b52ab&fire=b39ddb&currStreakLabel=e8d5ff" height="165em"/>
 
 </div>
 
