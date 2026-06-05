@@ -114,7 +114,7 @@ class Anam:
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdanam7&theme=midnight-purple&hide_border=true&background=0d0025&ring=7b52ab&fire=b39ddb&currStreakLabel=e8d5ff" height="165em"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=mdanam7&theme=midnight-purple&hide_border=true&background=0d0025&ring=7b52ab&fire=b39ddb&currStreakLabel=e8d5ff" height="165em"/>
 
 </div>
 
